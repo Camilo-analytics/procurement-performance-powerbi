@@ -10,13 +10,17 @@ The dashboard was built to answer a real business problem: leadership had no vis
 
 ## Dashboard Preview
 
-![Executive Summary](executive_summary.png)
+## Executive Summary
+![ Dashboard Preview](Executive_Summary.png)
 
-![Supplier Performance](Supplier Performance.png)
+## Spplier Performance
+![ Dashboard Preview](Supplier_Performance.png)
 
-![Executive Summary](executive_summary.png)
+## Spend by Category
+![ Dashboard Preview](Spend_by_Category.png)
 
-![Executive Summary](executive_summary.png)
+## YoY Spend Analysis
+![ Dashboard Preview](YoY_Spend_Analysis.png)
 
 
 | Page | Description |
