@@ -1,0 +1,41 @@
+product_id,product_name,category,unit,standard_cost
+PRD-001,Steel I-Beam 200mm,Structural,unit,320.0
+PRD-002,Steel Column 150mm,Structural,unit,280.0
+PRD-003,Galvanised Mesh Sheet,Structural,sheet,45.0
+PRD-004,Structural Bracket Kit,Structural,kit,85.0
+PRD-005,Timber Frame H3,Structural,length,55.0
+PRD-006,LVL Beam 90x45,Structural,length,42.0
+PRD-007,steel i-beam 200mm,Structural,unit,320.0
+PRD-008,Portland Cement 20kg,Concrete,bag,18.5
+PRD-009,Ready Mix Concrete 0.2m3,Concrete,m3,210.0
+PRD-010,Reinforcing Bar 12mm,Concrete,length,22.0
+PRD-011,Concrete Additive Set,Concrete,set,38.0
+PRD-012,Formwork Ply Sheet,Concrete,sheet,62.0
+PRD-013,Portland  Cement 20kg,Concrete,bag,18.5
+PRD-014,Cable 2.5mm Twin Core 100m,Electrical,roll,195.0
+PRD-015,Switchboard 4-Way,Electrical,unit,340.0
+PRD-016,Conduit 25mm x 4m,Electrical,length,12.0
+PRD-017,Cable Tray 300mm x 3m,Electrical,length,68.0
+PRD-018,Circuit Breaker 20A,Electrical,unit,28.0
+PRD-019,PVC Pipe 100mm x 6m,Plumbing,length,38.0
+PRD-020,Copper Pipe 15mm x 3m,Plumbing,length,42.0
+PRD-021,Ball Valve 50mm,Plumbing,unit,55.0
+PRD-022,Pipe Fitting Kit,Plumbing,kit,120.0
+PRD-023,Exterior Paint 15L,Finishes,can,89.0
+PRD-024,Render Coating 20kg,Finishes,bag,45.0
+PRD-025,Waterproof Sealant 310ml,Finishes,tube,14.0
+PRD-026,Hard Hat Class 1,Safety,unit,32.0
+PRD-027,Safety Harness Full Body,Safety,unit,185.0
+PRD-028,Hi-Vis Vest L,Safety,unit,18.0
+PRD-029,Dust Mask P2 Box 20,Safety,box,42.0
+PRD-030,Safety Sign Kit,Safety,kit,65.0
+PRD-031,Exterior  Paint 15L,Finishes,can,89.0
+PRD-032,hard hat class 1,Safety,unit,32.0
+PRD-033,Safety Harness Full body,Safety,unit,185.0
+PRD-034,PVC Pipe 100MM x 6m,Plumbing,length,38.0
+PRD-035,Cable 2.5mm Twin Core 100M,Electrical,roll,195.0
+PRD-036,Concrete Admixture 20L,Concrete,drum,95.0
+PRD-037,Angle Grinder Guard Kit,Safety,kit,55.0
+PRD-038,Expansion Bolt M12,Structural,box,48.0
+PRD-039,Anti-Corrosion Primer 4L,Finishes,can,52.0
+PRD-040,Pipe Lagging Insulation,Plumbing,roll,35.0

@@ -1,0 +1,26 @@
+supplier_id,supplier_name,country,category,tier,status
+SUP-001,Boral Building Products,AU,Structural,A,Active
+SUP-002,CSR Limited,AU,Structural,A,Active
+SUP-003,BlueScope Steel,AU,Structural,A,Active
+SUP-004,Boral  Building Products,AU,Structural,B,Active
+SUP-005,Hanson Construction,AU,Concrete,A,Active
+SUP-006,Holcim Australia,AU,Concrete,A,Active
+SUP-007,hanson construction,AU,Concrete,B,Active
+SUP-008,Brickworks Limited,AU,Concrete,B,Active
+SUP-009,NHP Electrical Engineering,AU,Electrical,A,Active
+SUP-010,Clipsal by Schneider,AU,Electrical,A,Active
+SUP-011,Cabling Solutions Pty Ltd,AU,Electrical,B,Active
+SUP-012,NHP  Electrical Engineering,AU,Electrical,C,Active
+SUP-013,Reece Plumbing,AU,Plumbing,A,Active
+SUP-014,Tradelink,AU,Plumbing,A,Active
+SUP-015,Rexnord Flow Control,AU,Plumbing,B,Active
+SUP-016,Dulux Group,AU,Finishes,A,Active
+SUP-017,Wattyl Paints,AU,Finishes,B,Active
+SUP-018,DuluxGroup,AU,Finishes,C,Active
+SUP-019,3M Australia,AU,Safety,A,Active
+SUP-020,Honeywell Safety,AU,Safety,A,Active
+SUP-021,Safety Zone Pty Ltd,AU,Safety,B,Active
+SUP-022,China Steel Co,CN,Structural,B,Active
+SUP-023,Asia Pacific Cement,CN,Concrete,C,Active
+SUP-024,Global Electrical Imports,CN,Electrical,C,Active
+SUP-025,Pacific Safety Supplies,NZ,Safety,B,Active
