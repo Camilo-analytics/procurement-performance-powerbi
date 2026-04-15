@@ -10,7 +10,14 @@ The dashboard was built to answer a real business problem: leadership had no vis
 
 ## Dashboard Preview
 
-> *(Add screenshots of each page here)*
+![Executive Summary](executive_summary.png)
+
+![Supplier Performance](Supplier Performance.png)
+
+![Executive Summary](executive_summary.png)
+
+![Executive Summary](executive_summary.png)
+
 
 | Page | Description |
 |------|-------------|
